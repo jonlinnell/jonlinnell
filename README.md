@@ -12,7 +12,7 @@ Recently, I've been trialling AGI to assist with the more mundane parts of my wo
 
 ## 🌱 What I'm learning
 
-I'm also a human linguaphile and aspiring polyglot. I'm reasonably fluent in 🇫🇷 **French**, I'm currently studying 🇨🇳 **Mandaring Chinese** for fun at the University of Oxford, and I have varying basic levels of 🇸🇪 **Swedish**, 🇵🇱 **Polish**, and **Spanish**. I'm still working on my English.
+I'm also a human linguaphile and aspiring polyglot. I'm reasonably fluent in 🇫🇷 **French**, I'm currently studying 🇨🇳 **Mandarin Chinese** for fun at the University of Oxford, and I have varying basic levels of 🇸🇪 **Swedish**, 🇵🇱 **Polish**, and **Spanish**. I'm still working on my English.
 
 ## How to reach me
 
